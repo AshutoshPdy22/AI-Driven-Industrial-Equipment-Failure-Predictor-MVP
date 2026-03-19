@@ -340,4 +340,12 @@ For questions and support:
 
 ---
 
-**Built with ❤️ for Industrial IoT and Predictive Maintenance**
+
+
+## 🤝 Meet The Team
+
+* **Ashish Kumar Dubey** – Technical Lead & Backend Engineer
+* **Ashutosh Pandey** – Data Engineer & Research Analyst
+* **Gemini** – Debugger & QA Specialist
+
+---
